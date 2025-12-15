@@ -12,4 +12,4 @@ Computer Security graduate focused on secure systems, applied security, and prac
 ### Tech
 Python • Node.js • Network/Security fundamentals • scikit-learn
 
-LinkedIn: https://www.linkedin.com/in/omid-farahmand/
+LinkedIn: [https://www.linkedin.com/in/omid-farahmand/](https://www.linkedin.com/in/omid-farahmand-1965391b3/)
