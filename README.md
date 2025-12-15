@@ -1,16 +1,15 @@
-## Hi there 👋
+# Omid Farahmand
+Computer Security graduate focused on secure systems, applied security, and practical ML.
 
-<!--
-**OmidFarahmand/OmidFarahmand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured Projects
+- 🔐 [Private Albums (crypto access control)](https://github.com/OmidFarahmand/Private-albums)
+- 🔑 [Public Key Signatures](https://github.com/OmidFarahmand/Public-key-signatures)
+- 🛡️ [Authentication Protocol](https://github.com/OmidFarahmand/Authentication-Protocol)
+- 🌳 [Decision Tree (from scratch)](https://github.com/OmidFarahmand/decision-tree)
+- 🧠 [Yelp Review Classification (NLP)](https://github.com/OmidFarahmand/yelp-review-classification)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+Python • Node.js • Network/Security fundamentals • scikit-learn
+
+LinkedIn: https://www.linkedin.com/in/omid-farahmand/
