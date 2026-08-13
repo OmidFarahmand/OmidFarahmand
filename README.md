@@ -1,15 +1,25 @@
 # Omid Farahmand
-Computer Security graduate focused on secure systems, applied security, and practical ML.
+
+**IT & Network Support Specialist with a background in Computer Security, focused on cybersecurity, networking, secure systems, and automation.**
 
 ## Featured Projects
-- 🔐 [Private Albums (crypto access control)](https://github.com/OmidFarahmand/Private-albums)
-- 🔑 [Public Key Signatures](https://github.com/OmidFarahmand/Public-key-signatures)
-- 🛡️ [Authentication Protocol](https://github.com/OmidFarahmand/Authentication-Protocol)
-- 🌳 [Decision Tree (from scratch)](https://github.com/OmidFarahmand/decision-tree)
-- 🧠 [Yelp Review Classification (NLP)](https://github.com/OmidFarahmand/yelp-review-classification)
 
+- 🔐 **Private Albums** — Cryptographic access control
+- 🔑 **Public Key Signatures** — Public-key cryptography and digital signatures
+- 🛡️ **Authentication Protocol** — Secure authentication and protocol analysis
+- 🌳 **Decision Tree from Scratch** — Machine learning implementation
+- 🧠 **Yelp Review Classification** — NLP and text classification
 
-### Tech
-Python • Node.js • Network/Security fundamentals • scikit-learn
+## Tech
 
-LinkedIn: [https://www.linkedin.com/in/omid-farahmand/](https://www.linkedin.com/in/omid-farahmand-1965391b3/)
+**Security & Networking:** Network Security, DNS, NAT, VPNs, VLANs, Firewalls, Wireshark
+
+**Programming:** Python, Java, C, JavaScript, SQL, Bash
+
+**Tools:** Git, GitHub Actions, Linux, Windows, Splunk / SIEM
+
+**Machine Learning:** scikit-learn, Classification, NLP
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/omid-farahmand/)
